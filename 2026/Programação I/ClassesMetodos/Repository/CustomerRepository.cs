@@ -64,7 +64,6 @@ namespace Repository
                     maxId = customer.Id;
             }
             return ++maxId;
-            //teste commit
         }
     }
 }
