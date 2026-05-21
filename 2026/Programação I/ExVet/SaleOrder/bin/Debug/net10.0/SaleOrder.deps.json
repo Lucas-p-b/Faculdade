@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SaleOrder/1.0.0": {
+        "runtime": {
+          "SaleOrder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaleOrder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

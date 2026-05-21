@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C80B822-7809-466F-AE71-3D47EF75ED15}|RealEstateCatalog\\RealEstateCatalog.csproj|c:\\users\\lucas\\desktop\\faculdade\\programa\u00E7\u00E3o i\\16-03-2026\\exvet\\realestatecatalog\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C80B822-7809-466F-AE71-3D47EF75ED15}|RealEstateCatalog\\RealEstateCatalog.csproj|solutionrelative:realestatecatalog\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAD0AA-1C60-46AB-9C38-418AFADBB4C4}|RealEstate\\RealEstate.csproj|c:\\users\\lucas\\desktop\\faculdade\\programa\u00E7\u00E3o i\\16-03-2026\\exvet\\realestate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BAD0AA-1C60-46AB-9C38-418AFADBB4C4}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BAD0AA-1C60-46AB-9C38-418AFADBB4C4}|RealEstate\\RealEstate.csproj|c:\\users\\lucas\\desktop\\faculdade\\programa\u00E7\u00E3o i\\16-03-2026\\exvet\\realestate\\views\\home\\realestate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{79BAD0AA-1C60-46AB-9C38-418AFADBB4C4}|RealEstate\\RealEstate.csproj|solutionrelative:realestate\\views\\home\\realestate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C80B822-7809-466F-AE71-3D47EF75ED15}|RealEstateCatalog\\RealEstateCatalog.csproj|c:\\users\\lucas\\desktop\\faculdade\\programa\u00E7\u00E3o i\\16-03-2026\\exvet\\realestatecatalog\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C80B822-7809-466F-AE71-3D47EF75ED15}|RealEstateCatalog\\RealEstateCatalog.csproj|solutionrelative:realestatecatalog\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RealEstate.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstate\\Views\\Home\\RealEstate.cshtml",
+              "RelativeDocumentMoniker": "RealEstate\\Views\\Home\\RealEstate.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstate\\Views\\Home\\RealEstate.cshtml",
+              "RelativeToolTip": "RealEstate\\Views\\Home\\RealEstate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-24T00:59:51.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstate\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RealEstate\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstate\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RealEstate\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:26:45.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apartment.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstateCatalog\\Apartment.cs",
+              "RelativeDocumentMoniker": "RealEstateCatalog\\Apartment.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstateCatalog\\Apartment.cs",
+              "RelativeToolTip": "RealEstateCatalog\\Apartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:23:11.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstateCatalog\\Home.cs",
+              "RelativeDocumentMoniker": "RealEstateCatalog\\Home.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\FACULDADE\\PROGRAMA\u00C7\u00C3O I\\16-03-2026\\ExVet\\RealEstateCatalog\\Home.cs",
+              "RelativeToolTip": "RealEstateCatalog\\Home.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:21:19.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

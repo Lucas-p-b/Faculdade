@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExVet/ExVet.csproj" />
+  <Project Path="RealEstate/RealEstate.csproj" Id="79bad0aa-1c60-46ab-9c38-418afadbb4c4" />
+  <Project Path="RealEstateCatalog/RealEstateCatalog.csproj" Id="7c80b822-7809-466f-ae71-3d47ef75ed15" />
+  <Project Path="SaleOrder/SaleOrder.csproj" Id="f9699b67-01eb-487a-be72-4edcdc021178" />
+</Solution>
