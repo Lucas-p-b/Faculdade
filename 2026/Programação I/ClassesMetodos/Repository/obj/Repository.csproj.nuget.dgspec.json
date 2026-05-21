@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\Core.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -343,14 +343,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -371,8 +371,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Core\\Core.csproj"
+              "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Core\\Core.csproj"
               }
             }
           }
@@ -686,14 +686,14 @@
         }
       }
     },
-    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -714,8 +714,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj"
+              "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj"
               }
             }
           }

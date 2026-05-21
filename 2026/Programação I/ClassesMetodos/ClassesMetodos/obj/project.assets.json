@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
       "projectName": "ClassesMetodos",
-      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
+      "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\ClassesMetodos\\ClassesMetodos.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\ClassesMetodos\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\ClassesMetodos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -95,11 +95,11 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Model\\Model.csproj"
+            "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj": {
+              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Model\\Model.csproj"
             },
-            "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj"
+            "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programação I\\ClassesMetodos\\Repository\\Repository.csproj"
             }
           }
         }
