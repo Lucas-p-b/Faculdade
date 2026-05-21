@@ -1,0 +1,17 @@
+Insertion Sort
+
+-O algoritmo percorre o vetor da esquerda para a direita.
+
+-Para cada elemento, ele o compara com os anteriores e o “insere” na posição correta, deslocando os demais se necessário.
+
+-Assim, após cada iteração, a parte à esquerda do elemento atual já está ordenada.
+
+Como funciona:
+
+-Começa assumindo que o primeiro elemento já está ordenado.
+
+-Pega o próximo elemento e compara com os anteriores, até encontrar a posição correta.
+
+-Insere o elemento nessa posição, deslocando os outros para frente.
+
+-Repete até que todos os elementos estejam na ordem.

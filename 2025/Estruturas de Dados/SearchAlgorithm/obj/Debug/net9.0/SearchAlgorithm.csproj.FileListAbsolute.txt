@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\bin\Debug\net9.0\SearchAlgorithm.exe
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\bin\Debug\net9.0\SearchAlgorithm.deps.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\bin\Debug\net9.0\SearchAlgorithm.runtimeconfig.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\bin\Debug\net9.0\SearchAlgorithm.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\bin\Debug\net9.0\SearchAlgorithm.pdb
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.AssemblyInfo.cs
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.sourcelink.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\refint\SearchAlgorithm.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.pdb
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\SearchAlgorithm.genruntimeconfig.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\12-11-2025\SearchAlgorithm\obj\Debug\net9.0\ref\SearchAlgorithm.dll

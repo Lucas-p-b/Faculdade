@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\bin\Debug\net9.0\AtividadeDictionary.exe
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\bin\Debug\net9.0\AtividadeDictionary.deps.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\bin\Debug\net9.0\AtividadeDictionary.runtimeconfig.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\bin\Debug\net9.0\AtividadeDictionary.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\bin\Debug\net9.0\AtividadeDictionary.pdb
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.AssemblyInfo.cs
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.sourcelink.json
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\refint\AtividadeDictionary.dll
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.pdb
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\AtividadeDictionary.genruntimeconfig.cache
+C:\Users\lucas\Desktop\FACULDADE\ESTRUTURAS DE DADOS\AULAS\19-11-2025\AtividadeDictionary\obj\Debug\net9.0\ref\AtividadeDictionary.dll

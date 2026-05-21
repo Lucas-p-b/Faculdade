@@ -1,0 +1,81 @@
+﻿@model Model.Customer
+
+@{
+    ViewData["Title"] = "Create Customer";
+}
+
+<h2>Create Customer</h2>
+
+<form asp-action="Create" method="post">
+
+    <div>
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" />
+        <span asp-validation-for="FirstName"></span>
+    </div>
+
+    <div>
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" />
+        <span asp-validation-for="LastName"></span>
+    </div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email" />
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div>
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" />
+        <span asp-validation-for="Phone"></span>
+    </div>
+
+    <hr />
+
+    <h4>Address</h4>
+
+    <input type="hidden" asp-for="Addresses[0].Id" />
+
+    <div>
+        <label asp-for="Addresses[0].Street"></label>
+        <input asp-for="Addresses[0].Street" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].Number"></label>
+        <input asp-for="Addresses[0].Number" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].City"></label>
+        <input asp-for="Addresses[0].City" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].PostalCode"></label>
+        <input asp-for="Addresses[0].PostalCode" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].Country"></label>
+        <input asp-for="Addresses[0].Country" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].FederalState"></label>
+        <input asp-for="Addresses[0].FederalState" />
+    </div>
+
+    <div>
+        <label asp-for="Addresses[0].AddressType"></label>
+        <select asp-for="Addresses[0].AddressType"
+                asp-items="Html.GetEnumSelectList<Model.AddressType>()">
+        </select>
+    </div>
+
+    <br />
+
+    <button type="submit">Save</button>
+</form>
