@@ -10,5 +10,6 @@ namespace Repository.VirtualDataBase
         public static List<Customer> Customers = [];
         public static List<Product> Products= [];
         public static List<Order> Orders= [];
+        public static List<Address> Addresses =[];
     }
 }

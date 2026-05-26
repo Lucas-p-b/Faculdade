@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Repository;
 using Model;
+using Microsoft.AspNetCore.Http.HttpResults;
 
 namespace ClassesMetodos.Controllers
 {
@@ -14,11 +15,18 @@ namespace ClassesMetodos.Controllers
         }
 
         [HttpGet]
-        public IActionResult Index()
+        public IActionResult Index(string search)
         {
-            Object objeto = new Object();
-            var customers = _customerRepository.GetAll();
+            List<Customer> customers = [];
 
+            if (!string.IsNullOrEmpty(search))
+            {
+                customers = _customerRepository.GetByName(search);
+            }
+            else
+            {
+                customers = _customerRepository.GetAll();
+            }
             return View(customers);
         }
 
@@ -34,6 +42,9 @@ namespace ClassesMetodos.Controllers
         {
             if (customer is null)
                 return View(customer);
+
+            foreach (var a in customer.Addresses)
+            _customerRepository.Create(customer);
 
             _customerRepository.Create(customer);
 
@@ -64,6 +75,38 @@ namespace ClassesMetodos.Controllers
                 return NotFound();
 
             _customerRepository.Delete(customer);
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public IActionResult Update(int id)
+        {
+            if (id <= 0)
+                return BadRequest();
+
+            var customer = _customerRepository.GetById(id);
+
+            if(customer is null)
+                return NotFound();
+
+            return View(customer);
+        }
+
+        [HttpPost]
+
+        public IActionResult Update(int id, Customer customer)
+        {
+            if (id <= 0)
+                return BadRequest();
+
+            if (customer is null)
+                return BadRequest();
+
+            if (id != customer.Id)
+                return BadRequest();
+
+            _customerRepository.Update(customer);
 
             return RedirectToAction(nameof(Index));
         }
