@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\virtualdatabase\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\virtualdatabase\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,58 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Customer\\Index.cshtml",
-              "RelativeDocumentMoniker": "ClassesMetodos\\Views\\Customer\\Index.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Customer\\Index.cshtml",
-              "RelativeToolTip": "ClassesMetodos\\Views\\Customer\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-26T00:47:31.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Customer\\Create.cshtml",
-              "RelativeDocumentMoniker": "ClassesMetodos\\Views\\Customer\\Create.cshtml",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Customer\\Create.cshtml",
-              "RelativeToolTip": "ClassesMetodos\\Views\\Customer\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-26T00:47:16.306Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\BaseRepository.cs",
-              "RelativeToolTip": "Repository\\BaseRepository.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAbAAAAAAAAAA==",
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ClassesMetodos\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ClassesMetodos\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T23:11:28.272Z",
+              "WhenOpened": "2026-05-26T01:09:03.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CustomerRepository.cs",
               "RelativeToolTip": "Repository\\CustomerRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwDYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T22:34:27.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "AddressRepository.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\VirtualDataBase\\AddressRepository.cs",
               "RelativeDocumentMoniker": "Repository\\VirtualDataBase\\AddressRepository.cs",
@@ -98,18 +64,17 @@
               "RelativeToolTip": "Repository\\VirtualDataBase\\AddressRepository.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAQwE8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T23:03:40.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T23:03:40.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "ClassesMetodos\\Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "ClassesMetodos\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T22:29:23.789Z",
               "EditorCaption": ""
