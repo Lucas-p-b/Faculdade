@@ -23,6 +23,7 @@ namespace Repository
             _customer.LastName = _customer.LastName;
             _customer.Email = _customer.Email;
             _customer.Phone = _customer.Phone;
+            _customer.Addresses = _customer.Addresses;
         }
 
         public Customer GetById(int Id)

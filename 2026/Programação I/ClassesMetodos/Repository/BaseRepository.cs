@@ -16,6 +16,8 @@ namespace Repository
                     return GetNextAddressId();
                 case Type t when t == typeof(Customer):
                     return GetNextCustomerId();
+                case Type t when t == typeof(Product):
+                    return GetNextProductId();
                 default:
                     throw new ArgumentException("Invalid type");
             }
@@ -38,6 +40,16 @@ namespace Repository
             {
                 if (customer.Id > maxId)
                     maxId = customer.Id;
+            }
+            return ++maxId;
+        }
+        private int GetNextProductId()
+        {
+            int maxId = 0;
+            foreach (var product in MyData.Products)
+            {
+                if (product.Id > maxId)
+                    maxId = product.Id;
             }
             return ++maxId;
         }

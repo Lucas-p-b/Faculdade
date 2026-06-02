@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\classesmetodos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB201F95-C841-567E-8015-3DB37365BA30}|ClassesMetodos\\ClassesMetodos.csproj|solutionrelative:classesmetodos\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\virtualdatabase\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\virtualdatabase\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|c:\\users\\lucas\\onedrive\\documentos\\faculdade\\2026\\programa\u00E7\u00E3o i\\classesmetodos\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418D8A6-5C64-4EF9-AF1D-F156C88A0265}|Repository\\Repository.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ClassesMetodos\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ClassesMetodos\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-26T01:09:03.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\CustomerRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CustomerRepository.cs",
-              "RelativeToolTip": "Repository\\CustomerRepository.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T22:34:27.251Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ClassesMetodos\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ClassesMetodos\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-02T00:36:41.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddressRepository.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\VirtualDataBase\\AddressRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\VirtualDataBase\\AddressRepository.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\VirtualDataBase\\AddressRepository.cs",
-              "RelativeToolTip": "Repository\\VirtualDataBase\\AddressRepository.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwE8AAAAcAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T23:03:40.705Z"
+              "WhenOpened": "2026-06-02T00:19:55.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "ClassesMetodos\\Controllers\\CustomerController.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "ClassesMetodos\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAwwBwAAAANAAAAAAAAAA==",
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T22:29:23.789Z",
+              "WhenOpened": "2026-06-01T23:09:27.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ClassesMetodos\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Documentos\\Faculdade\\2026\\Programa\u00E7\u00E3o I\\ClassesMetodos\\ClassesMetodos\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ClassesMetodos\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T23:18:29.469Z",
               "EditorCaption": ""
             }
           ]

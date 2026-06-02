@@ -8,13 +8,14 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ClassesMetodos
 build_property.RootNamespace = ClassesMetodos
 build_property.ProjectDir = C:\Users\lucas\OneDrive\Documentos\Faculdade\2026\Programação I\ClassesMetodos\ClassesMetodos\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.RazorLangVersion = 9.0
+build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = C:\Users\lucas\OneDrive\Documentos\Faculdade\2026\Programação I\ClassesMetodos\ClassesMetodos
@@ -56,6 +57,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/lucas/OneDrive/Documentos/Faculdade/2026/Programação I/ClassesMetodos/ClassesMetodos/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lucas/OneDrive/Documentos/Faculdade/2026/Programação I/ClassesMetodos/ClassesMetodos/Views/Products/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lucas/OneDrive/Documentos/Faculdade/2026/Programação I/ClassesMetodos/ClassesMetodos/Views/Shared/Error.cshtml]

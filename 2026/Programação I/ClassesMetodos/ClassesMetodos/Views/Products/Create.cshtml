@@ -6,6 +6,8 @@
 
 <h2>Create Product</h2>
 
+<select asp-for="CategoryId" class="form-select" asp-items="ViewBag.CategoryId"></select>
+
 <form asp-action="Create" method="post">
 
     <div>

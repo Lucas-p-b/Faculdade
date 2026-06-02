@@ -3,10 +3,11 @@ using Repository.VirtualDataBase;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Xml.Linq;
 
 namespace Repository
 {
-    public class ProductRepository
+    public class ProductRepository : BaseRepository<Product>
     {
         public void Create(Product product)
         {
@@ -49,21 +50,23 @@ namespace Repository
             return products;
         }
 
+        public List<Product> GetByCategoryId(int categoryId)
+        {
+            List<Product> products = [];
+
+            foreach (var p in MyData.Products)
+            {
+                if (p.CategoryId == categoryId)
+                {
+                    products.Add(p);
+                }
+            }
+            return products;
+        }
+
         public List<Product> GetAll()
         {
             return MyData.Products;
-        }
-
-        private int GetNextId()
-        {
-
-            int maxId = 0;
-            foreach (var product in MyData.Products)
-            {
-                if (product.Id > maxId)
-                    maxId = product.Id;
-            }
-            return ++maxId;
         }
     }
 }

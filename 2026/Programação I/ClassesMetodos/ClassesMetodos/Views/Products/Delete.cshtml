@@ -1,14 +1,14 @@
 ﻿@model Model.Product
 
 <h2>
-	Deseja realmente excluir o produto?
+    Deseja realmente excluir o produto?
 </h2>
 
 <div>
-	Nome: @Model.Name
+    Nome: @Model.Name
 </div>
 
 <form method="post" asp-controller="Products" asp-action="ConfirmDelete">
-	<input type="hidden" asp-for="@Model.Id" />
-	<input type="submit" value="Excluir" class="btn btn-danger" />
+    <input type="hidden" asp-for="@Model.Id" />
+    <input type="submit" value="Excluir" class="btn btn-danger" />
 </form>
